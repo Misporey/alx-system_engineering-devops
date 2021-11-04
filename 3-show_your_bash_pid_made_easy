@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# get process and it name
-
-pgrep -l "bash"
